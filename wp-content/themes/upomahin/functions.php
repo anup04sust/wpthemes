@@ -12,7 +12,7 @@ function pprint($dd){
     echo '</pre>';
 }
 require_once get_theme_file_path('/inc/theme_setups.php');
-require_once get_theme_file_path('/inc/menu-fields.php');
+//require_once get_theme_file_path('/inc/menu-fields.php');
 
 /*
  * Theme Setups Hooks
